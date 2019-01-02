@@ -1,4 +1,3 @@
-
 {
   "name": "react-native-zendesk-tecnovix",
   "version": "1.0.0",
@@ -7,14 +6,27 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexsanderManzoli/tecnovix_zendesk.git"
+  },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react",
+    "react-component",
+    "ios",
+    "android",
+    "zendesk-react-native",
+    "zendesk"
   ],
-  "author": "",
-  "license": "",
+  "author": "Alexsander manzoli <alexsandermanzoli@gmail.com>",
+  "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-
-  }
+    "react": "*",
+    "react-native": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexsanderManzoli/tecnovix_zendesk/issues"
+  },
+  "homepage": "https://github.com/AlexsanderManzoli/tecnovix_zendesk"
 }
