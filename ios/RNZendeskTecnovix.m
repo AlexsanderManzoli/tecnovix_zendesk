@@ -9,5 +9,9 @@
 }
 RCT_EXPORT_MODULE()
 
+RCT_EXPORT_METHOD(addEvent:(NSString *)name)
+{
+  RCTLogInfo(@"Pretending to create an event %@ at %@", name);
+}
 @end
   
